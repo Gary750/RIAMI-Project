@@ -1,0 +1,10 @@
+<!-- res/drawable/ic_facebook.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M22,12a10,10 0 1,0 -11.605,9.88v-6.99h-2.86v-2.89h2.86v-2.21c0,-2.84 1.7,-4.41 4.31,-4.41 1.25,0 2.55,0.23 2.55,0.23v2.8h-1.44c-1.42,0 -1.86,0.88 -1.86,1.78v2.11h3.16l-0.5,2.89h-2.66v6.99A10.002,10.002 0 0,0 22,12z"/>
+</vector>
